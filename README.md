@@ -53,7 +53,7 @@ n8n Automation
 
 ### n8n Workflow
 
-![n8n Workflow](screenshots/n8n DB.png)
+![n8n Workflow](screenshots/n8nDB.png)
 
 ---
 
